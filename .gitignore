@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Umbraco.Cms.Web.v9/.vs/Umbraco.Cms.Web.v9
+/Umbraco.Cms.Web.v9/obj
+/Umbraco.Plugins.CustomLogin/obj
